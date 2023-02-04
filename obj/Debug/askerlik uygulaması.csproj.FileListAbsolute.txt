@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\askerlik uygulaması\askerlik uygulaması\bin\Debug\askerlik uygulaması.exe.config
+C:\Users\HP\source\repos\askerlik uygulaması\askerlik uygulaması\bin\Debug\askerlik uygulaması.exe
+C:\Users\HP\source\repos\askerlik uygulaması\askerlik uygulaması\bin\Debug\askerlik uygulaması.pdb
+C:\Users\HP\source\repos\askerlik uygulaması\askerlik uygulaması\obj\Debug\askerlik uygulaması.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\askerlik uygulaması\askerlik uygulaması\obj\Debug\askerlik_uygulaması.Form1.resources
+C:\Users\HP\source\repos\askerlik uygulaması\askerlik uygulaması\obj\Debug\askerlik_uygulaması.Properties.Resources.resources
+C:\Users\HP\source\repos\askerlik uygulaması\askerlik uygulaması\obj\Debug\askerlik uygulaması.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\askerlik uygulaması\askerlik uygulaması\obj\Debug\askerlik uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\askerlik uygulaması\askerlik uygulaması\obj\Debug\askerlik uygulaması.exe
+C:\Users\HP\source\repos\askerlik uygulaması\askerlik uygulaması\obj\Debug\askerlik uygulaması.pdb
